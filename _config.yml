@@ -14,7 +14,7 @@ keywords: C,PHP
 
 home_nav:
   - name: Blog
-    url: /archives
+    url: /categories
     target_blank: false #不在新页面打开
   - name: Project
     url: /project/
