@@ -10,13 +10,13 @@ avatar: /images/avatar.jpg
 favicon: /favicon.ico
 
 # For seo
-keywords: C,PHP
+keywords: C,PHP,JS
 
 home_nav:
   - name: 文字
     url: /categories
     target_blank: false #不在新页面打开
-  - name: 代码
+  - name: CODE
     url: https://github.com/funsoul
     target_blank: true
 
@@ -157,11 +157,6 @@ valine:
 # 注意，多说即将关闭，建议选用上面四个评论系统
 # duoshuo_shortname: forsigner
 
-
-
-# 不算子,文章访问量统计和显示
-busuanzi: true
-
 # =========================================================
 # 页面内容设置
 # =========================================================
@@ -169,8 +164,7 @@ about:
   - type: me
     icon: icon-user
     text_value:
-    - "喜欢用编程做一些有趣的事情"
-    - "常用 C PHP"
+    - "nothinggonachangemyworld"
   - type: Github
     icon: icon-github
     text_key: Github
