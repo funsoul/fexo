@@ -1,7 +1,7 @@
 # Blog info
 blog_name: Funsoul
 slogan: :)
-url: http://www.funsoul.org
+url: https://funsoul.github.io
 
 # Set avatar (Absolute url and relative url)
 avatar: /images/avatar.jpg
@@ -13,7 +13,7 @@ favicon: /favicon.ico
 keywords: C,PHP,JS
 
 home_nav:
-  - name: 文字
+  - name: 记录
     url: /categories
     target_blank: false #不在新页面打开
   - name: CODE
